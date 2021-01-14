@@ -1,3 +1,6 @@
+![Screenshot](https://i.ibb.co/4gbbPZQ/Captura-de-pantalla-6.png)
+![Screenshot](https://i.ibb.co/zH557D8/Captura-de-pantalla-9.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
